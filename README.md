@@ -3,8 +3,8 @@
 Dois vistoriadores visitaram o apê ainda ocupado (17/08) e levantaram alguns pontos.
 
 ## Sala
-- Trocar spots queimados no gesso
-- Trocar lâmpada central queimada
+- [ ] Trocar spots queimados no gesso
+- [x] Trocar lâmpada central queimada
 - Encaixar parte de baixo da persiana
 - Limpar churrasqueira
 - Arrumar controle do ar-condicionado
