@@ -3,31 +3,32 @@
 Dois vistoriadores visitaram o apê ainda ocupado (17/08) e levantaram alguns pontos.
 
 ## Sala
+- [ ] Limpar churrasqueira
+    - A diarista vai limpar dia 01/09
 - [x] Trocar spots queimados no gesso
 - [x] Trocar lâmpada central queimada
 - [x] Encaixar parte de baixo da persiana
-- [ ] Limpar churrasqueira
-    - A diarista vai limpar dia 01/09
 - [x] Arrumar controle do ar-condicionado
+    - Controle do ar da sala não consta como funcionando
 - [x] Arrumar controle da tv
 - [x] Pedir pro dudu avisar sobre chaves do fiesta da cláudia
 - [x] Pedir pro dudu avisar sobre prego na porta
-- [ ] Cadeiras frouxas
-    - Ver alguém para ajustar as madeiras
-    - Mandar arrumar
+- [X] Cadeiras frouxas
+    - Na vistoria não consta "cadeiras inteiras"
 
 ## Cozinha
-- [x] Botar segunda lâmpada
 - [ ] Limpar fogão
     - A diarista vai limpar dia 01/09
 - [ ] Limpar coifa
     - A diarista vai limpar dia 01/09
 - [ ] Trocar cadeiras da bancada
-    - Aguardando entrega das cadeiras novas
-    - Levar cadeiras para apartamento
+    - [X] Comprar cadeiras novas
+    - [ ] Levar cadeiras para apartamento
 - [ ] Arrumar pia pingando
     - [ ] Comprar borrachinha
     - [ ] Trocar
+- [x] Botar segunda lâmpada
+    - Não constam duas lâmpadas no inventário
 
 ## Banheiro da área de serviço
 - [ ] Trocar tampa do vaso
@@ -36,34 +37,32 @@ Dois vistoriadores visitaram o apê ainda ocupado (17/08) e levantaram alguns po
 
 ## Banheiro Alemão
 - [ ] Pia com pouca vazão
-    - Limpar canos
+    - [ ] Limpar canos
 - [ ] Lâmpada faltando
     - [ ] Comprar lâmpada
-    - [ ] Insalar lâmpada
-- [ ] Trocar tampa do vaso
-    - [ ] Comprar tampa
-    - [ ] Instalar tampa
+    - [ ] Instalar lâmpada
+- [X] Trocar tampa do vaso
+    - Inventário descreve a tampa com desgaste
 
-## Quarto da bateria
+## Quarto da bateria - OK
 - [x] Pedir pro dudu avisar imobiliária sobre berço que foi pro irmão
 
 ## Quarto Alemão
 - [ ] Higienizar colchão
 
 ## Quarto Erick
-- [ ] Arrumar controle do ar-condicionado
-    - Contatar a LG para comprar novo controle
 - [ ] Higienizar cortinas
 - [ ] Higienizar colchão
-- [x] Fixar luminária do teto
 - [ ] Limpar abajur
     - A diarista vai limpar dia 01/09
 - [ ] Falta bastão da persiana do closet
     - Procurar bastão
+- [x] Fixar luminária do teto
+- [X] Arrumar controle do ar-condicionado
+    - Deixar controle do ar condicionado que funciona
 
-## Banheiro Erick
-- [ ] Trocar tampa do vaso
-    - [ ] Comprar tampa
-    - [ ] Instalar tampa
+## Banheiro Erick - OK
+- [X] Trocar tampa do vaso
+    - Inventário descreve a tampa com desgaste
 - [x] Porta lascada
     - Não tem lasco
